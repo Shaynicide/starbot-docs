@@ -26,19 +26,7 @@ layout:
 
 <details>
 
-<summary><mark style="color:$primary;"><strong>6.2.1</strong></mark></summary>
-
-#### Voice Channel Alerts
-
-★ Added an **Allowed Channels** list
-
-　☆ For more details, check [here](settings-menu/voice-and-rooms/voice-activity.md#allowed-list-and-exempt-list)
-
-★ Allowed **categories** to be added to lists
-
-#### XP Channel Lists
-
-★ The above changes were also applied
+<summary><mark style="color:$primary;"><strong>6.3.0</strong></mark></summary>
 
 #### Bump Reminders
 
@@ -63,6 +51,30 @@ layout:
 #### Help Menu
 
 ★ Improved `/help` clarity & split bot info into own button
+
+#### New Member Cleanup
+
+★ Added feature to remove messages from new users who leave quickly
+
+　☆ Time period & exempt channels can be set
+
+</details>
+
+<details>
+
+<summary><mark style="color:$primary;"><strong>6.2.1</strong></mark></summary>
+
+#### Voice Channel Alerts
+
+★ Added an **Allowed Channels** list
+
+　☆ For more details, check [here](settings-menu/voice-and-rooms/voice-activity.md#allowed-list-and-exempt-list)
+
+★ Allowed **categories** to be added to lists
+
+#### XP Channel Lists
+
+★ The above changes were also applied
 
 </details>
 
