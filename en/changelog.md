@@ -40,6 +40,30 @@ layout:
 
 ★ The above changes were also applied
 
+#### Bump Reminders
+
+★ Added reminder settings for <mark style="color:$primary;">Disboard</mark> and <mark style="color:$primary;">Dissoku</mark>
+
+　☆ After each `/bump` or `/up` command, a reminder while be sent 2 hours later
+
+#### Enter & Exit Messages
+
+★ Added background styles to choose from for **Image** type
+
+★ Message & image now in container
+
+　☆ Text can be set **above or below** the image
+
+#### Starbot Updates
+
+★ Added setting for **Starbot Updates** channel
+
+　☆ Future Starbot announcements will be sent here if set
+
+#### Help Menu
+
+★ Improved `/help` clarity & split bot info into own button
+
 </details>
 
 <details>
