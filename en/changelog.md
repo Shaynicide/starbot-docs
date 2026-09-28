@@ -58,6 +58,14 @@ layout:
 
 　☆ Time period & exempt channels can be set
 
+#### Updated Setup Menu
+
+★ Created a more comprehensive setup menu
+
+#### Internal
+
+★ Set up event framework so Starbot events can be handled easier
+
 </details>
 
 <details>
