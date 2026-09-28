@@ -1,0 +1,7 @@
+# 🌟 Collectibles Commands
+
+{% hint style="info" %}
+Coins, achievements, and trading cards are global while items, gear, and coins are per server.
+{% endhint %}
+
+<table><thead><tr><th width="202">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>/me achievements</code></td><td>Displays the member’s unlocked achievements and achievement information. Achievements are global and can be earned for various things.</td></tr><tr><td><code>/me bag</code></td><td>Displays the member’s collected items. From here, <a href="../coins-and-items.md">items can be used or sold for coins.</a></td></tr><tr><td><code>/me cards</code></td><td>Displays the member’s trading card collection. Cards can be shown off to others in chat.</td></tr><tr><td><code>/collect</code></td><td>Can be used hourly to collect a random amount of coins.</td></tr><tr><td><code>/craft</code></td><td>Displays the craft menu. Items can be combined to make other items.</td></tr><tr><td><code>/gacha</code></td><td>Opens <a href="../coins-and-items.md#gacha">gacha</a>. There are various types, including slots. Used to gain coins and items.</td></tr><tr><td><code>/me gear</code></td><td>Opens the gear menu. You can view/use your equipped items here.</td></tr><tr><td><code>/me pets</code></td><td>Opens the pet menu.</td></tr><tr><td><code>/shop</code></td><td>Displays the item shop. Used to buy and sell items. The shop changes every day.</td></tr></tbody></table>
