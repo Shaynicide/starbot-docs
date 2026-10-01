@@ -62,6 +62,10 @@ layout:
 
 ★ Created a more comprehensive setup menu
 
+#### Bug Fixes
+
+★ Fixed temporary VC channels not respecting **Bottom** settings
+
 #### Internal
 
 ★ Set up event framework so Starbot events can be handled easier
